@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	border: 15px solid orangered;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p {
+	line-height: 1.8.rem;
+	
+}
+.logo img {
+float: left;
+margin: 0px 40px 0px
+}
+
+.header {
+
+background: black;
+color: White;
+font-size: 20px;  
+}
+
+.container {
+padding: 0px 0px 0px 0px;
+background:#3676f3;
+border: 10px solid maroon;
+
+
+
+}
