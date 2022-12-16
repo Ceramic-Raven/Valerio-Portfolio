@@ -1,0 +1,67 @@
+body {
+	background-color: black;
+	border: 20px solid steelblue;
+	font-family: Arial, Helvetica, sans-serif;
+	flex: 1;
+}
+
+p {
+	line-height: 2.rem;
+	
+}
+.logo img {
+float: left;
+margin: 0px 40px 0px
+}
+
+.header {
+
+background: black;
+color: White;
+font-size: 30px;  
+}
+
+.container {
+padding: 0px 0px 0px 0px;
+background:#3676f3;
+border: 10px solid maroon;
+flex: 1;
+
+
+}
+.container-1 {
+
+background:#000000;
+border: 10px solid mediumpurple;
+flex: 2;
+}
+.container-2 {
+
+background:#434343;
+border: 10px solid slategray;
+flex: 1;
+}
+.container-3 {
+
+background:#Decd83;
+border: 10px solid goldenrod;
+flex: 2;
+}
+.container-4 {
+
+background:#014879;
+border: 10px solid royalblue;
+flex: 1;
+}
+.container-5 {
+
+background: #A23f37;
+border: 10px solid tan;
+flex: 2;
+}
+.container-6 {
+
+background: #7F7F7F;
+border: 10px solid lightskyblue;
+display: flex;
+}
